@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkaesthetic_clinic"]=self["webpackChunkaesthetic_clinic"]||[]).push([[443],{7381:function(n,t,c){c.r(t),c.d(t,{default:function(){return o}});var e=c(3396);const i={class:"about"},a=(0,e._)("h1",null,"This is an about page",-1),s=[a];function u(n,t){return(0,e.wg)(),(0,e.iD)("div",i,s)}var r=c(89);const l={},h=(0,r.Z)(l,[["render",u]]);var o=h}}]);
+//# sourceMappingURL=about.9c42d7d4.js.map
